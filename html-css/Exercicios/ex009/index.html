@@ -1,40 +1,77 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Outras formatações</title>
-    <style>
-        body {
-            background-color: rgba(204, 207, 207, 0.37);
-        }
-    </style>
+    <title>Listas</title>
 </head>
 <body>
-    <h1>Outras formatações</h1>
-    <h2>Código-fonte / Pré-formatação</h2>
-    <p>O comando <code>document.getElementById('test')</code> é esceito em linguagem JavaScript.</p>
-    <pre>
-        <code>
-    num = int(input('Digite um número'))
-    if num % 2 == 0:
-        print(f'O número {num} é PAR')
-    else:
-        print(f'O número {num} é IMPAR')
-    print('Fim do programa')
-        </code>
-    </pre>
-    <h2>Citações simples</h2>
-    <p>Como diria o pai de um amigo: <q>o computador é um burro muito rápido.</q></p>
-    <h2>Citações completas</h2>
-    <p>Segundo Jeff Noble, no seu livro HTML para Leigos:</p>
-    <blockquote cite="https://books.google.com.br/books?id=E8ZtDwAAQBAJ&pg=PA17&dq=html&hl=pt-BR&sa=X&ved=2ahUKEwj3uI3TgI3uAhVTA9QKHU8YC4UQ6wEwAHoECAIQAQ#v=onepage&q=html&f=false">
-        Você não precisa ser um gênio das artes misteriosas da programação, nem precisa de um Ph.D em Ciências da Computação.
-    </blockquote>
-    <h2>Abreviações</h2>
-    <p>Estou estudando <abbr title="HyperText Markup Language">HTML</abbr> e <abbr title="Cascading Style Sheets">CSS</abbr>. Estou adorando!</p>
-    <h2>Texto Invertido</h2>
-    <p><bdo dir="rtl">Estou aprendendo a criar coisas em HTML.</bdo></p>
-    <bdo dir="ltr">Estou aprendendo a criar coisas em HTML.</bdo>
+    <h1>Trabalhando com listas</h1>
+    <h2>Listas Ordenadas</h2>
+    <ol type="1"> <!-- opções de type 1 A a I i -->
+        <li>Acordar</li>
+        <li>Tomar café</li>
+        <li>Escovar os dentes</li>
+        <li>Ir para a faculdade</li>
+        <li>Almoçar</li>
+        <li>Ir para o trabalho</li>
+        <li>Voltar para a casa</li>
+        <li>Jantar</li>
+        <li>Dormir</li>
+    </ol>
+    <h2>Listas não Ordenadas</h2>
+    <ul type= "square"> <!-- opções de type disc circle square -->
+        <li>Pão</li>
+        <li>Leite</li>
+        <li>Tomate</li>
+        <li>Manteiga</li>
+        <li>Arroz</li>
+        <li>Feijão</li>
+    </ul>
+    <h2>Cursos de Tecnologia</h2>
+    <ol>
+        <li>Feitos</li>
+        <ol type="a">
+            <li>Bases Numéricas</li>
+            <li>PHP Básico</li>
+        </ol>
+        <li>Em andamento</li>
+        <ol type="a">
+            <li>Python</li>
+            <li>Algorítmo</li>
+            <li>HTML5 e CSS3</li>
+        </ol>
+    </ol>
+    <h2>Meus jogos favoritos</h2>
+    <ol>
+        <li>Nitendo</li>
+        <ul type="square">
+            <li>Mario Bros</li> <!--Copiei do professor-->
+            <ul type="circle">
+                <li>Mario Bros 3</li>
+                <li>Mario Lost Levels</li>
+            </ul>
+        
+        </ul>
+        <li>PlayStation</li>
+        <ul type="square">
+            <li>Pes</li>
+           <li>Guitar Hero</li> 
+        </ul>
+        <li>Xbox 360</li>
+        <ul type="square">
+           <li>Guitar Hero</li>
+            <li>God of War</li>
+            <li>Lef 4 Dead</li>
+    </ol>
+    <h2>Lista de Definições</h2>
+    <dl>
+        <dt>HTML</dt> <!--Termo-->
+        <dd>Linguagem de marcação para criação do conteúdo de um site.</dd> <!--Descrição-->
+        <dt>CSS</dt>
+        <dd>Linguagem de marcação para criação do design de um site.</dd>
+        <dt>JavaScript</dt>
+        <dd>Linguagem de programação para a criação de interatividade de um site</dd>
+    </dl>
 </body>
 </html>
