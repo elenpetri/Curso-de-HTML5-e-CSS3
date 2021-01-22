@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(95, 158, 160, 0.815);
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(54, 92, 94);
+}
+p,a {
+    text-align: center;
+    }
+iframe {
+    text-align: center;
+}
+
+img, a {
+    color: aliceblue;
+    }
