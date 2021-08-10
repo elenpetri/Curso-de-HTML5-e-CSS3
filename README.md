@@ -1,4 +1,4 @@
-# Curso-de-HTML5 e CSS3 ![HTML5](https://icons.iconarchive.com/icons/martz90/hex/32/html-5-icon.png) ![CSS3]( https://icons.iconarchive.com/icons/martz90/hex/32/css-3-icon.png)
+# Curso de HTML5 e CSS3 ![HTML5](https://icons.iconarchive.com/icons/martz90/hex/32/html-5-icon.png) ![CSS3]( https://icons.iconarchive.com/icons/martz90/hex/32/css-3-icon.png)
   ## Aulas, exercícios e desafios do curso de HTML5 e CSS3.
 
   <br/>
