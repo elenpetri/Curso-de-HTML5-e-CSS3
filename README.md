@@ -8,7 +8,7 @@
   <br/>
 
   ## Conteúdo disponível em:
-  * Na plataforma de ensino: [Curso em vídeo]((https://www.cursoemvideo.com/meus-cursos/))
+  * Na plataforma de ensino [Curso em vídeo]((https://www.cursoemvideo.com/meus-cursos/))
   * Youtube [Curso em vídeo]((https://www.youtube.com/user/cursosemvideo))
 
 
