@@ -3,7 +3,7 @@
 
   <br/>
 
-  ### Páticas dos execícios propostos pelo professor [Gustavo Guanabara](https://github.com/gustavoguanabara/html-css) ![Github](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/github-icon.png)
+  ### Práticas dos exercícios propostos pelo professor [Gustavo Guanabara](https://github.com/gustavoguanabara/html-css) ![Github](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/github-icon.png)
   
   <br/>
 
